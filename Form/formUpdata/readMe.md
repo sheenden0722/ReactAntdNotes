@@ -21,7 +21,7 @@ componentWillReceiveProps(nextProps) {
 
 ### 官方推荐
 >使用 mapPropsToFields ，但具体没有使用过
->【初步预计】，如果表单项特别多（20项左右的话），该方法写起来会很让人心烦
+>【初步预计】，如果表单项特别多（20项左右的话），该方法写起来会很让人心烦，应该需要使用 onFieldsChange 
 
 ### 个人方案
 >将“基本信息”表单封装成一个组件，为其属性添加唯一的key, 每次保存服务成功后，生成一个新的uuid,这样initialValue就可以赋值
