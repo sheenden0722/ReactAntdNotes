@@ -36,3 +36,16 @@ componentWillReceiveProps(nextProps) {
 ```
 * props数据都是从model层传来的数据
 * model层保存成功后，生成basicInfoUuid
+
+### 网上另外一种方案
+*使用componentWillReceiveProps
+```
+componentWillReceiveProps(nextProps) {
+    if (nextProps.xxxx && !this.props.xxxx) {
+        this.props.form.setFieldsValue(nextProps.xxxx)
+    }
+}
+```
+>当第nextProps有值，而this.prop.xxxx还没有给赋值，说明是第一次改变xxxx属性，所以只会执行一次
+>该方案没尝试过，初步预计，如果表单有20项的话，this.props.form.setFieldsValue(nextProps.xxxx)
+>需要写20次
