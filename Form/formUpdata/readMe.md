@@ -3,4 +3,4 @@
 * 加入在“基本信息”tab修改文字后，没有点击保存，点击其他tab后，再点击‘基本信息’
 * 此时应该是刷新数据，使用服务返回的值，但是表单并没有刷新
 <br/>
-![Image text](https://raw.github.com/sheenden0722/repositpry/master/ReactAntdNotes/img/tab_form.jpg)
+![Image text](https://raw.githubusercontent.com/sheenden0722/ReactAntdNotes/master/img/tab_form.jpg)
