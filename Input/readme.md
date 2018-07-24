@@ -14,11 +14,11 @@
 ---
 > * 有时候遇到输入框的内容如要通过模态框取值情况
 
-![](https://github.com/sheenden0722/ReactAntdNotes/raw/master/img/inputModalSelect.png)
+![](../../img/inputModalSelect.png)
 
 * 如果在表单中，使用点击右侧的+号图标弹出模态框
 
-![](https://github.com/sheenden0722/ReactAntdNotes/blob/master/img/inputFromModal.png)
+![](../../img/inputFromModal.png)
 
 ```
 <Input disabled={true}/>
@@ -37,7 +37,7 @@
 
 * 如果是普通输入框，使用点击输入框弹出模态框
 
-![](https://github.com/sheenden0722/ReactAntdNotes/blob/master/img/inputOnclickModal.png)
+![](../../img/inputOnclickModal.png)
 
 ```
 <Input 
