@@ -10,7 +10,8 @@
 
 
 
-> 当使用footer属性时，隐藏、取消、确定可以分别调用不同的方法
+> 当使用footer属性时，隐藏、取消、确定可以分别调用不同的方法<br/>
+[代码](https://github.com/sheenden0722/ReactAntdNotes/blob/master/Modal/hideAndCloseModal/hideAndCloseModal.js)
 
 ```
 <Modal
