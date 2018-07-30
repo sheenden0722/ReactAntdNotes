@@ -1,8 +1,7 @@
 ### ReactAntd学习笔记
-
+>这里的笔记是基于DVA框架开过过程中总结的一些小经验
 ---
 
->这里的笔记是基于DVA框架开过过程中总结的一些小经验
 * 组件
 >[1. 自定义组件](https://github.com/sheenden0722/ReactAntdNotes/tree/master/ComponentModule)
 ---
