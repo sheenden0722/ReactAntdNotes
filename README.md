@@ -16,6 +16,7 @@
 ---
 * 模态框Modal
 >[1. 模态框的隐藏、关闭和确定](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Modal/hideAndCloseModal)
+>
 >[2. 含有内部state的模态框](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Modal/innerStateModal)
 ---
 * State、Props、Ref、成员变量
