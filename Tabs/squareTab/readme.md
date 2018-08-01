@@ -25,8 +25,6 @@
 
 * 属性说明
 
-**activeKey:**           被激活的tab(子元素的num属性)
+**activeKey:**          被激活的tab(子元素的num属性)
 
-**onTabsClick：**     tab点击事件，默认将子元素的num属性作为入参，需要动态改变
-
-​                                this.state.tabKey的值
+**onTabsClick：**        tab点击事件，默认将子元素的num属性作为入参，需要动态改变this.state.tabKey的值
