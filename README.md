@@ -1,5 +1,7 @@
 ### ReactAntd学习笔记
 >这里的笔记是基于DVA框架开发过程中总结的一些小经验
+   学习React，请参考[React中国社区](http://react-china.org/)
+
 ---
 
 * 组件
