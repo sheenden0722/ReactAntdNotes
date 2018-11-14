@@ -53,7 +53,10 @@
 >
 > [2. Redux应用](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Redux/reduxApply)
 
+---
+
 * React Native
 
 > [React Native 开发总结](https://github.com/sheenden0722/ReactAntdNotes/tree/master/RN)
 
+注：[一些背景图cssauthor.com](https://cssauthor.com/)
