@@ -58,5 +58,6 @@
 * React Native
 
 > [React Native 开发总结](https://github.com/sheenden0722/ReactAntdNotes/tree/master/RN)
-
-注：[一些背景图cssauthor.com](https://cssauthor.com/)
+---
+注1：[【一些背景图】cssauthor.com](https://cssauthor.com/)  
+注2：[【前端开发须知】](https://github.com/sheenden0722/ReactAntdNotes/blob/master/Questions-and-Answers.md)
