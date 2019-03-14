@@ -16,6 +16,8 @@
 >[2. 表单中使用state](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Form/formUseState)
 >
 >[3.高阶组件实现表单双向绑定](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Form/formHighLevelDataBind)
+>
+>[4.表单的相互影响](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Form/formChangeOtherItem)
 ---
 * 输入框Input
 >[1. 普通输入框 VS 表单输入框](https://github.com/sheenden0722/ReactAntdNotes/tree/master/Input)
